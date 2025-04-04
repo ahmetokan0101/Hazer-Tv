@@ -1,16 +1,30 @@
 [
     {
-      "id": "1",
-      "name": "TRT 1",
-      "logoUrl": "https://www.canlitv.my/kanal/logo/5.jpg",
-      "streamUrl": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8",
-      "category": "Ulusal"
+        "id": "1",
+        "name": "TRT 1",
+        "logoUrl": "https://www.canlitv.my/kanal/logo/5.jpg",
+        "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_720.m3u",
+        "category": "Ulusal"
     },
     {
-      "id": "2",
-      "name": "Show TV",
-      "logoUrl": "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",
-      "streamUrl": "http://stream.tvcdn.net/ulusal/show-tv.m3u8",
-      "category": "Genel"
+        "id": "2",
+        "name": "Show TV",
+        "logoUrl": "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",
+        "streamUrl": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
+        "category": "Genel"
+    },
+    {
+        "id": "3",
+        "name": "Star TV",
+        "logoUrl": "https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp",
+        "streamUrl": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "5",
+        "name": "Kanal D",
+        "logoUrl": "https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png",
+        "streamUrl": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",
+        "category": "Ulusal"
     }
-  ]
+]
