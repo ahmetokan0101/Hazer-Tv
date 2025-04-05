@@ -824,5 +824,61 @@
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
         "category": "Spor"
+    },
+    {
+        "id": "122",
+        "name": "CARTOON NETWORK",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://proxy.canlitvplayer.com/cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2850000kbps/index.m3u8",
+        "category": "Çocuk"
+    },
+    {
+        "id": "123",
+        "name": "Minika Go",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://trkvz-live.daioncdn.net/minikago/minikago.m3u8",
+        "category": "Çocuk"
+    },
+    {
+        "id": "124",
+        "name": "Minika Çocuk",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8",
+        "category": "Çocuk"
+    },
+    {
+        "id": "125",
+        "name": "TRT Diyanet Çocuk",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+        "category": "Dini"
+    },
+    {
+        "id": "126",
+        "name": "TRT Diyanet Çocuk",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+        "category": "Çocuk"
+    },
+    {
+        "id": "127",
+        "name": "TRT Çocuk",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+        "category": "Çocuk"
+    },
+    {
+        "id": "128",
+        "name": "Dost TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://dost.stream.emsal.im/tv/live.m3u8",
+        "category": "Dini"
+    },
+    {
+        "id": "129",
+        "name": "Diyanet TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+        "category": "Dini"
     }
 ]
