@@ -217,13 +217,6 @@
         "category": "Ulusal"
     },
     {
-        "id": "33",
-        "name": "Semerkand TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
-        "category": "Dini"
-    },
-    {
         "id": "34",
         "name": "Kanal 15",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
@@ -409,14 +402,14 @@
         "id": "60",
         "name": "TGRT Belgesel",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
+        "streamUrl": "http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "61",
         "name": "TGRT Belgesel",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
+        "streamUrl": "http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8",
         "category": "Belgesel"
     },
     {
@@ -588,13 +581,6 @@
         "category": "Kurmancî"
     },
     {
-        "id": "86",
-        "name": "KURD CHANNEL",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8",
-        "category": "Kurmancî"
-    },
-    {
         "id": "87",
         "name": "RÛDAW TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
@@ -635,5 +621,208 @@
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
         "category": "Kurmancî"
+    },
+    {
+        "id": "93",
+        "name": "TRT HABER",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8",
+        "category": "Haber"
+    },
+    {
+        "id": "94",
+        "name": "TV 100",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv.ensonhaber.com/tv100/tv100.m3u8",
+        "category": "Haber"
+    },
+    {
+        "id": "95",
+        "name": "HALK TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+        "category": "Haber"
+    },
+    {
+        "id": "96",
+        "name": "EKOL TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
+        "category": "Haber"
+    },
+    {
+        "id": "97",
+        "name": "DMAX",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+        "category": "Belgesel"
+    },
+    {
+        "id": "98",
+        "name": "TLC",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+        "category": "Belgesel"
+    },
+    {
+        "id": "99",
+        "name": "TRT Belgesel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+        "category": "Belgesel"
+    },
+    {
+        "id": "100",
+        "name": "Woman TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://embedlp.becdn.net/womantv.m3u8",
+        "category": "Belgesel"
+    },
+    {
+        "id": "101",
+        "name": "TV 4",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8",
+        "category": "Belgesel"
+    },
+    {
+        "id": "102",
+        "name": "TRT MÜZİK",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "103",
+        "name": "POWERTURK TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "104",
+        "name": "KRAL TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "105",
+        "name": "Krap Pop",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "106",
+        "name": "NumberOne TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "107",
+        "name": "NumberOne Aşk",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "108",
+        "name": "NumberOne Dance",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "109",
+        "name": "NumberOne Türk",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "110",
+        "name": "NUMBER ONE TÜRK DANCE",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "111",
+        "name": "NUMBER ONE",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
+        "category": "Müzik"
+    },
+    {
+        "id": "112",
+        "name": "SEMERKAND",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+        "category": "Dini"
+    },
+    {
+        "id": "113",
+        "name": "TRT SPOR",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web&format=m3u8",
+        "category": "Spor"
+    },
+    {
+        "id": "114",
+        "name": "TRT SPOR YILDIZ",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a&format=m3u8",
+        "category": "Spor"
+    },
+    {
+        "id": "115",
+        "name": "A SPOR",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
+        "category": "Spor"
+    },
+    {
+        "id": "116",
+        "name": "SPORTS TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
+        "category": "Spor"
+    },
+    {
+        "id": "117",
+        "name": "FB TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+        "category": "Spor"
+    },
+    {
+        "id": "118",
+        "name": "HT SPOR",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8",
+        "category": "Spor"
+    },
+    {
+        "id": "119",
+        "name": "REAL MADRİD TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+        "category": "Spor"
+    },
+    {
+        "id": "120",
+        "name": "TV 8",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "121",
+        "name": "RED BULL TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+        "category": "Spor"
     }
 ]
