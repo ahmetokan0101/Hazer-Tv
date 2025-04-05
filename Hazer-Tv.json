@@ -82,5 +82,376 @@
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
         "category": "Ulusal"
+    },
+    {
+        "id": "14",
+        "name": "Çekmeköy TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "15",
+        "name": "Bursa AS TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "16",
+        "name": "Kanal Hayat",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "17",
+        "name": "TRT Belgesel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "18",
+        "name": "TRT Belgesel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+        "category": "Belgesel"
+    },
+    {
+        "id": "19",
+        "name": "KANAL URFA",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "20",
+        "name": "ER TV MALATYA",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "21",
+        "name": "SAT 7 TÜRK",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "22",
+        "name": "ALTAS TV ORDU",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "23",
+        "name": "BİR TV İZMİR",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "24",
+        "name": "BURSA LINE TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "25",
+        "name": "ÇAY TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "26",
+        "name": "Esenler Şehir TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "27",
+        "name": "Diyanet TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "28",
+        "name": "Diyanet TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+        "category": "Dini"
+    },
+    {
+        "id": "29",
+        "name": "Dost TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://dost.stream.emsal.im/tv/live.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "30",
+        "name": "ES TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "31",
+        "name": "Güneydoğu TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "32",
+        "name": "Semerkand TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "33",
+        "name": "Semerkand TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+        "category": "Dini"
+    },
+    {
+        "id": "34",
+        "name": "Kanal 15",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "35",
+        "name": "KANAL 26",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "36",
+        "name": "Kent Türk TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "37",
+        "name": "Line TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "38",
+        "name": "MANISA TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "39",
+        "name": "Rehber Tv",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.ts.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "40",
+        "name": "Rehber Tv",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.ts.m3u8",
+        "category": "Dini"
+    },
+    {
+        "id": "41",
+        "name": "TRT Türk",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "42",
+        "name": "TV 41",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "43",
+        "name": "TV 52",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "44",
+        "name": "Deha TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "45",
+        "name": "Deniz Postası TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "46",
+        "name": "Dim TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "47",
+        "name": "KANAL 68",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "48",
+        "name": "TRT EBA İlkokul",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "49",
+        "name": "TRT EBA İlkokul",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+        "category": "Eğitim"
+    },
+    {
+        "id": "50",
+        "name": "TRT EBA Ortaokul",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+        "category": "Eğitim"
+    },
+    {
+        "id": "51",
+        "name": "TRT EBA Ortaokul",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "52",
+        "name": "TRT EBA Lise",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "53",
+        "name": "TRT EBA Lise",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
+        "category": "Eğitim"
+    },
+    {
+        "id": "54",
+        "name": "TRT EBA",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "55",
+        "name": "TRT EBA",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
+        "category": "Eğitim"
+    },
+    {
+        "id": "56",
+        "name": "KONYA OLAY TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "57",
+        "name": "Mavi Karadeniz",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "58",
+        "name": "MERCAN TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "59",
+        "name": "NORA TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "60",
+        "name": "TGRT Belgesel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "61",
+        "name": "TGRT Belgesel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
+        "category": "Belgesel"
+    },
+    {
+        "id": "62",
+        "name": "Woman TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://embedlp.becdn.net/womantv.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "63",
+        "name": "TV A",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "64",
+        "name": "Lale Gül TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "65",
+        "name": "Lale Gül TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+        "category": "Dini"
+    },
+    {
+        "id": "66",
+        "name": "KARDELEN TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8",
+        "category": "Ulusal"
     }
 ]
