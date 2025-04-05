@@ -572,5 +572,68 @@
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8",
         "category": "Haber"
+    },
+    {
+        "id": "84",
+        "name": "TRT KURDÎ",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "85",
+        "name": "KURDISTAN TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "86",
+        "name": "KURD CHANNEL",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "87",
+        "name": "RÛDAW TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "88",
+        "name": "KURDSAT NEWS",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "89",
+        "name": "JÎN TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.jintv.org/medialive/jintv.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "90",
+        "name": "KURDSAT",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://kurdsat.akamaized.net/hls/kurdsat.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "91",
+        "name": "Kurd Channel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "92",
+        "name": "Persiana 4Kurd",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
+        "category": "Kurmancî"
     }
 ]
