@@ -3,8 +3,8 @@
         "id": "1",
         "name": "TRT 1",
         "logoUrl": "https://www.canlitv.my/kanal/logo/5.jpg",
-        "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_720.m3u",
-        "category": "Ulusal"
+        "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
+        "category": "Halil"
     },
     {
         "id": "2",
