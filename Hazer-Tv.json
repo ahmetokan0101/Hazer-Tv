@@ -402,14 +402,14 @@
         "id": "60",
         "name": "TGRT Belgesel",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8",
+        "streamUrl": "http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "61",
         "name": "TGRT Belgesel",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8",
+        "streamUrl": "http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8",
         "category": "Belgesel"
     },
     {
@@ -605,14 +605,14 @@
         "id": "90",
         "name": "KURDSAT",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8",
+        "streamUrl": "https://kurdsat.akamaized.net/hls/kurdsat.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "91",
         "name": "Kurd Channel",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://iko-live.akamaized.net/kurdhd/master_2.m3u8",
+        "streamUrl": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8",
         "category": "Kurmancî"
     },
     {
@@ -829,7 +829,7 @@
         "id": "122",
         "name": "CARTOON NETWORK",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
+        "streamUrl": "https://proxy.canlitvplayer.com/cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2850000kbps/index.m3u8",
         "category": "Çocuk"
     },
     {
@@ -908,5 +908,12 @@
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
         "category": "Sinema"
+    },
+    {
+        "id": "134",
+        "name": "Rojhatın nenesi",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": " https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
+        "category": "Rojhat"
     }
 ]
