@@ -915,5 +915,12 @@
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": " https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
         "category": "Rojhat"
+    },
+    {
+        "id": "135",
+        "name": "Kadirin Nenesi",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+        "category": "Kadir İnfo"
     }
 ]
