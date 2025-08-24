@@ -591,7 +591,7 @@
         "id": "88",
         "name": "KURDSAT NEWS",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8",
+        "streamUrl": "https://iko-streamline-live1.akamaized.net/KurdsatNews/master_3.m3u8",
         "category": "Kurmancî"
     },
     {
@@ -605,14 +605,14 @@
         "id": "90",
         "name": "KURDSAT",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://kurdsat.akamaized.net/hls/kurdsat.m3u8",
+        "streamUrl": "https://iko-live.akamaized.net/KurdsatTV/master_3.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "91",
-        "name": "Kurd Channel",
+        "name": "Kurdmax TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8",
+        "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist_w1134322588.m3u8",
         "category": "Kurmancî"
     },
     {
