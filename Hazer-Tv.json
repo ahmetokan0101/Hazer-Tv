@@ -3,7 +3,7 @@
         "id": "1",
         "name": "TRT 1",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
+        "streamUrl": "http://46.20.7.125/listen.pls",
         "category": "Ulusal"
     },
     {
