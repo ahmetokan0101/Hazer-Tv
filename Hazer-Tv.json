@@ -451,7 +451,7 @@
         "id": "67",
         "name": "TGRT HABER",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://canli.tgrthaber.com/tgrt.m3u8",
+        "streamUrl": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8",
         "category": "Haber"
     },
     {
@@ -829,7 +829,7 @@
         "id": "122",
         "name": "CARTOON NETWORK",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w488327680.m3u8",
+        "streamUrl": "https://tv.arectv34.sbs/live/cartoonnetwork.m3u8",
         "category": "Çocuk"
     },
     {
