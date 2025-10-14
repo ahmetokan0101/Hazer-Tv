@@ -10,21 +10,21 @@
         "id": "2",
         "name": "Show TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
+        "streamUrl": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7tsrhesk7v80",
         "category": "Ulusal"
     },
     {
         "id": "3",
         "name": "Star TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+        "streamUrl": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7tss0mxn79rq",
         "category": "Ulusal"
     },
     {
         "id": "5",
         "name": "Kanal D",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",
+        "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7tss4m7jfrez",
         "category": "Ulusal"
     },
     {
@@ -66,21 +66,21 @@
         "id": "11",
         "name": "TV8",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
+        "streamUrl": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tss6ev7szhi",
         "category": "Ulusal"
     },
     {
         "id": "12",
         "name": "TV 8.5",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8",
+        "streamUrl": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7tss8egq148y",
         "category": "Ulusal"
     },
     {
         "id": "13",
         "name": "Teve2",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+        "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7tspfnygyfoq",
         "category": "Ulusal"
     },
     {
@@ -283,7 +283,7 @@
         "id": "43",
         "name": "TV 52",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+        "streamUrl": "https://edge.socialsmart.tv/tv52/bant1/chunks.m3u8",
         "category": "Ulusal"
     },
     {
@@ -472,7 +472,7 @@
         "id": "70",
         "name": "NTV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+        "streamUrl": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3",
         "category": "Haber"
     },
     {
@@ -486,7 +486,7 @@
         "id": "72",
         "name": "BLOOMBERG HT",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+        "streamUrl": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8",
         "category": "Haber"
     },
     {
@@ -603,7 +603,7 @@
     },
     {
         "id": "90",
-        "name": "KURDSAT",
+        "name": "Kurdsat TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": "https://iko-live.akamaized.net/KurdsatTV/master_3.m3u8",
         "category": "Kurmancî"
@@ -612,7 +612,7 @@
         "id": "91",
         "name": "Kurdmax TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist_w1134322588.m3u8",
+        "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
@@ -654,14 +654,14 @@
         "id": "97",
         "name": "DMAX",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+        "streamUrl": "https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7",
         "category": "Belgesel"
     },
     {
         "id": "98",
         "name": "TLC",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+        "streamUrl": "https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&",
         "category": "Belgesel"
     },
     {
@@ -794,14 +794,14 @@
         "id": "117",
         "name": "FB TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+        "streamUrl": "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8",
         "category": "Spor"
     },
     {
         "id": "118",
         "name": "HT SPOR",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8",
+        "streamUrl": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7tsq32f5u1w6",
         "category": "Spor"
     },
     {
@@ -815,7 +815,7 @@
         "id": "120",
         "name": "TV 8",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
+        "streamUrl": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tss6ev7szhi",
         "category": "Ulusal"
     },
     {
@@ -892,14 +892,14 @@
         "id": "131",
         "name": "TLC",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+        "streamUrl": "https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&",
         "category": "Sinema"
     },
     {
         "id": "132",
         "name": "Teve2",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+        "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7tspfnygyfoq",
         "category": "Sinema"
     },
     {
@@ -922,5 +922,117 @@
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8",
         "category": "Haber"
+    },
+    {
+        "id": "136",
+        "name": "Kurd Channel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://cdn.northtelecom.org/KurdChannel.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "137",
+        "name": "4Kurd",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "138",
+        "name": "Kurdistan 24",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "139",
+        "name": "Amozhgary TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://app-live.org/live/3268334b/index.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "140",
+        "name": "Afarin Kids",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "141",
+        "name": "Baxchai Afarin",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "142",
+        "name": "Afarin Radio",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "143",
+        "name": "NRT TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "144",
+        "name": "Eurokurd",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://eurokurd.icdndhcp.com/live/Eurokurd/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "145",
+        "name": "Assyrian Global Network",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "146",
+        "name": "Payam TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "147",
+        "name": "Zarok TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "148",
+        "name": "Sada TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://sadatv.icdndhcp.com/live/sadatv/playlist.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "149",
+        "name": "Waar TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "150",
+        "name": "Waar Radio",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://c2.radioboss.fm/stream/564",
+        "category": "Kurmancî"
+    },
+    {
+        "id": "151",
+        "name": "Denge Zelal TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8",
+        "category": "Kurmancî"
     }
 ]
