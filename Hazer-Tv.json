@@ -2,1036 +2,1036 @@
     {
         "id": "1",
         "name": "TRT 1",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "2",
         "name": "Show TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7tsrhesk7v80",
         "category": "Ulusal"
     },
     {
         "id": "3",
         "name": "Star TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7tss0mxn79rq",
         "category": "Ulusal"
     },
     {
         "id": "5",
         "name": "Kanal D",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7tss4m7jfrez",
         "category": "Ulusal"
     },
     {
         "id": "6",
         "name": "Now TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "7",
         "name": "Halk TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=2?=.m3u&format=.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "8",
         "name": "Kanal 7",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "9",
         "name": "Beyaz TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "10",
         "name": "360 TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "11",
         "name": "TV8",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tss6ev7szhi",
         "category": "Ulusal"
     },
     {
         "id": "12",
         "name": "TV 8.5",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7tss8egq148y",
         "category": "Ulusal"
     },
     {
         "id": "13",
         "name": "Teve2",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7tspfnygyfoq",
         "category": "Ulusal"
     },
     {
         "id": "14",
         "name": "Çekmeköy TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "15",
         "name": "Bursa AS TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "16",
         "name": "Kanal Hayat",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "17",
         "name": "TRT Belgesel",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "18",
         "name": "TRT Belgesel",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
         "category": "Belgesel"
     },
     {
         "id": "19",
         "name": "KANAL URFA",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "20",
         "name": "ER TV MALATYA",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "21",
         "name": "SAT 7 TÜRK",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "22",
         "name": "ALTAS TV ORDU",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "23",
         "name": "BİR TV İZMİR",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "24",
         "name": "BURSA LINE TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "25",
         "name": "ÇAY TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "26",
         "name": "Esenler Şehir TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://yayin30.haber100.com/live/sehirekrani/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "27",
         "name": "Diyanet TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "28",
         "name": "Diyanet TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
         "category": "Dini"
     },
     {
         "id": "29",
         "name": "Dost TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dost.stream.emsal.im/tv/live.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "30",
         "name": "ES TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "31",
         "name": "Güneydoğu TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "32",
         "name": "Semerkand TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "34",
         "name": "Kanal 15",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "35",
         "name": "KANAL 26",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "36",
         "name": "Kent Türk TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "37",
         "name": "Line TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "38",
         "name": "MANISA TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "39",
         "name": "Rehber Tv",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "40",
         "name": "Rehber Tv",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8",
         "category": "Dini"
     },
     {
         "id": "41",
         "name": "TRT Türk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "42",
         "name": "TV 41",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "43",
         "name": "TV 52",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge.socialsmart.tv/tv52/bant1/chunks.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "44",
         "name": "Deha TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "45",
         "name": "Deniz Postası TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "46",
         "name": "Dim TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "47",
         "name": "KANAL 68",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "48",
         "name": "TRT EBA İlkokul",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "49",
         "name": "TRT EBA İlkokul",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
         "category": "Eğitim"
     },
     {
         "id": "50",
         "name": "TRT EBA Ortaokul",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
         "category": "Eğitim"
     },
     {
         "id": "51",
         "name": "TRT EBA Ortaokul",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "52",
         "name": "TRT EBA Lise",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "53",
         "name": "TRT EBA Lise",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
         "category": "Eğitim"
     },
     {
         "id": "54",
         "name": "TRT EBA",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "55",
         "name": "TRT EBA",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8",
         "category": "Eğitim"
     },
     {
         "id": "56",
         "name": "KONYA OLAY TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "57",
         "name": "Mavi Karadeniz",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "58",
         "name": "MERCAN TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "59",
         "name": "NORA TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "60",
         "name": "TGRT Belgesel",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "61",
         "name": "TGRT Belgesel",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8",
         "category": "Belgesel"
     },
     {
         "id": "62",
         "name": "Woman TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://embedlp.becdn.net/womantv.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "63",
         "name": "TV A",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "64",
         "name": "Lale Gül TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "65",
         "name": "Lale Gül TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
         "category": "Dini"
     },
     {
         "id": "66",
         "name": "KARDELEN TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "67",
         "name": "TGRT HABER",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8",
         "category": "Haber"
     },
     {
         "id": "68",
         "name": "Habertürk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
         "category": "Haber"
     },
     {
         "id": "69",
         "name": "TRT HABER",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "70",
         "name": "NTV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3",
         "category": "Haber"
     },
     {
         "id": "71",
         "name": "24 TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8",
         "category": "Haber"
     },
     {
         "id": "72",
         "name": "BLOOMBERG HT",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8",
         "category": "Haber"
     },
     {
         "id": "73",
         "name": "HALK TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
         "category": "Haber"
     },
     {
         "id": "74",
         "name": "ÜLKE TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
         "category": "Haber"
     },
     {
         "id": "75",
         "name": "HABER GLOBAL",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
         "category": "Haber"
     },
     {
         "id": "76",
         "name": "BENGÜ TÜRK",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8",
         "category": "Haber"
     },
     {
         "id": "77",
         "name": "EKOL TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
         "category": "Haber"
     },
     {
         "id": "78",
         "name": "DHA",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
         "category": "Haber"
     },
     {
         "id": "79",
         "name": "Konya Olay TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
         "category": "Haber"
     },
     {
         "id": "80",
         "name": "KONYA OLAY TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
         "category": "Belgesel"
     },
     {
         "id": "81",
         "name": "FİNANS TÜRK TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://yayin30.haber100.com/live/finansturk/chunklist_w1381071849.m3u8",
         "category": "Haber"
     },
     {
         "id": "82",
         "name": "Meclis TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8",
         "category": "Haber"
     },
     {
         "id": "83",
         "name": "DHA 2",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8",
         "category": "Haber"
     },
     {
         "id": "84",
         "name": "TRT KURDÎ",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "85",
         "name": "KURDISTAN TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "87",
         "name": "RÛDAW TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "88",
         "name": "KURDSAT NEWS",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://iko-streamline-live1.akamaized.net/KurdsatNews/master_3.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "89",
         "name": "JÎN TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.jintv.org/medialive/jintv.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "90",
         "name": "Kurdsat TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://iko-live.akamaized.net/KurdsatTV/master_3.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "91",
         "name": "Kurdmax TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "92",
         "name": "Persiana 4Kurd",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "93",
         "name": "TRT HABER",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8",
         "category": "Haber"
     },
     {
         "id": "94",
         "name": "TV 100",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv.ensonhaber.com/tv100/tv100.m3u8",
         "category": "Haber"
     },
     {
         "id": "95",
         "name": "HALK TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
         "category": "Haber"
     },
     {
         "id": "96",
         "name": "EKOL TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
         "category": "Haber"
     },
     {
         "id": "97",
         "name": "DMAX",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7",
         "category": "Belgesel"
     },
     {
         "id": "98",
         "name": "TLC",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&",
         "category": "Belgesel"
     },
     {
         "id": "99",
         "name": "TRT Belgesel",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
         "category": "Belgesel"
     },
     {
         "id": "100",
         "name": "Woman TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://embedlp.becdn.net/womantv.m3u8",
         "category": "Belgesel"
     },
     {
         "id": "101",
         "name": "TV 4",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8",
         "category": "Belgesel"
     },
     {
         "id": "102",
         "name": "TRT MÜZİK",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
         "category": "Müzik"
     },
     {
         "id": "103",
         "name": "POWERTURK TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8",
         "category": "Müzik"
     },
     {
         "id": "104",
         "name": "KRAL TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "105",
         "name": "Krap Pop",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "106",
         "name": "NumberOne TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "107",
         "name": "NumberOne Aşk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "108",
         "name": "NumberOne Dance",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "109",
         "name": "NumberOne Türk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "110",
         "name": "NUMBER ONE TÜRK DANCE",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "111",
         "name": "NUMBER ONE",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
         "category": "Müzik"
     },
     {
         "id": "112",
         "name": "SEMERKAND",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
         "category": "Dini"
     },
     {
         "id": "113",
         "name": "TRT SPOR",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web&format=m3u8",
         "category": "Spor"
     },
     {
         "id": "114",
         "name": "TRT SPOR YILDIZ",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a&format=m3u8",
         "category": "Spor"
     },
     {
         "id": "115",
         "name": "A SPOR",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
         "category": "Spor"
     },
     {
         "id": "116",
         "name": "SPORTS TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
         "category": "Spor"
     },
     {
         "id": "117",
         "name": "FB TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8",
         "category": "Spor"
     },
     {
         "id": "118",
         "name": "HT SPOR",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7tsq32f5u1w6",
         "category": "Spor"
     },
     {
         "id": "119",
         "name": "REAL MADRİD TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
         "category": "Spor"
     },
     {
         "id": "120",
         "name": "TV 8",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tss6ev7szhi",
         "category": "Ulusal"
     },
     {
         "id": "121",
         "name": "RED BULL TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
         "category": "Spor"
     },
     {
         "id": "122",
         "name": "CARTOON NETWORK",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv.arectv34.sbs/live/cartoonnetwork.m3u8",
         "category": "Çocuk"
     },
     {
         "id": "123",
         "name": "Minika Go",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://trkvz-live.daioncdn.net/minikago/minikago.m3u8",
         "category": "Çocuk"
     },
     {
         "id": "124",
         "name": "Minika Çocuk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8",
         "category": "Çocuk"
     },
     {
         "id": "125",
         "name": "TRT Diyanet Çocuk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
         "category": "Dini"
     },
     {
         "id": "126",
         "name": "TRT Diyanet Çocuk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
         "category": "Çocuk"
     },
     {
         "id": "127",
         "name": "TRT Çocuk",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
         "category": "Çocuk"
     },
     {
         "id": "128",
         "name": "Dost TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dost.stream.emsal.im/tv/live.m3u8",
         "category": "Dini"
     },
     {
         "id": "129",
         "name": "Diyanet TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
         "category": "Dini"
     },
     {
         "id": "130",
         "name": "Deniz Postası TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
         "category": "Sinema"
     },
     {
         "id": "131",
         "name": "TLC",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&",
         "category": "Sinema"
     },
     {
         "id": "132",
         "name": "Teve2",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7tspfnygyfoq",
         "category": "Sinema"
     },
     {
         "id": "133",
         "name": "Life TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
         "category": "Sinema"
     },
     {
         "id": "134",
         "name": "KANAL 58",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "135",
         "name": "Aksu Tv",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8",
         "category": "Haber"
     },
     {
         "id": "136",
         "name": "Kurd Channel",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://cdn.northtelecom.org/KurdChannel.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "137",
         "name": "4Kurd",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "138",
         "name": "Kurdistan 24",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "139",
         "name": "Amozhgary TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://app-live.org/live/3268334b/index.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "140",
         "name": "Afarin Kids",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "141",
         "name": "Baxchai Afarin",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "142",
         "name": "Afarin Radio",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "143",
         "name": "NRT TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "144",
         "name": "Eurokurd",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://eurokurd.icdndhcp.com/live/Eurokurd/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "145",
         "name": "Assyrian Global Network",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "146",
         "name": "Payam TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "147",
         "name": "Zarok TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "148",
         "name": "Sada TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://sadatv.icdndhcp.com/live/sadatv/playlist.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "149",
         "name": "Waar TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
         "category": "Kurmancî"
     },
     {
         "id": "150",
         "name": "Waar Radio",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://c2.radioboss.fm/stream/564",
         "category": "Kurmancî"
     },
     {
         "id": "151",
         "name": "Denge Zelal TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8",
         "category": "Kurmancî"
     }
