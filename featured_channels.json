@@ -1,0 +1,10 @@
+[
+  {
+    "id": "featured_trt1",
+    "name": "TRT 1",
+    "description": "TRT 1 Canlı Yayın",
+    "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "thumbnailUrl": "https://www.trt.net.tr/trt1-logo.png",
+    "categories": ["Genel"]
+  }
+]
