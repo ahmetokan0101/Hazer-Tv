@@ -1,8 +1,34 @@
 {
   "blocked_urls": [
-   "https://www.canlitv.top/show-tv-izle"
+    "https://www.canlitv.top/show-tv-izle"
   ],
   "stream_overrides": {
     "https://www.canlitv.top/trt-1": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
-  }
+  },
+  "featured_channels": [
+    {
+      "id": "featured_trt1",
+      "name": "TRT 1",
+      "description": "TRT 1 Canlı Yayın",
+      "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "thumbnailUrl": "https://www.trt.net.tr/_nuxt/img/trt-1-televizyon-kanali.4c9c3dd.png",
+      "categories": ["Genel"]
+    },
+    {
+      "id": "featured_atv",
+      "name": "ATV",
+      "description": "ATV Canlı Yayın",
+      "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "thumbnailUrl": "https://www.atv.com.tr/assets/img/atv-logo.png",
+      "categories": ["Genel"]
+    },
+    {
+      "id": "featured_showtv",
+      "name": "Show TV",
+      "description": "Show TV Canlı Yayın",
+      "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "thumbnailUrl": "https://www.showtv.com.tr/assets/img/showtv-logo.png",
+      "categories": ["Genel"]
+    }
+  ]
 }
