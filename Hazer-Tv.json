@@ -16,22 +16,22 @@
     {
         "id": "3",
         "name": "Star TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7tss0mxn79rq",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
         "category": "Ulusal"
     },
     {
         "id": "5",
         "name": "Kanal D",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7tss4m7jfrez",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
         "category": "Ulusal"
     },
     {
         "id": "6",
         "name": "Now TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=JXoLQMKZPH0pyJXutjwDqw&e=1762902486",
         "category": "Ulusal"
     },
     {
@@ -65,22 +65,22 @@
     {
         "id": "11",
         "name": "TV8",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tss6ev7szhi",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
         "category": "Ulusal"
     },
     {
         "id": "12",
         "name": "TV 8.5",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7tss8egq148y",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
         "category": "Ulusal"
     },
     {
         "id": "13",
         "name": "Teve2",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7tspfnygyfoq",
+        "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd",
         "category": "Ulusal"
     },
     {
@@ -801,7 +801,7 @@
         "id": "118",
         "name": "HT SPOR",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7tsq32f5u1w6",
+        "streamUrl": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ce=3",
         "category": "Spor"
     },
     {
@@ -815,7 +815,7 @@
         "id": "120",
         "name": "TV 8",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=7tss6ev7szhi",
+        "streamUrl": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
         "category": "Ulusal"
     },
     {
@@ -829,7 +829,7 @@
         "id": "122",
         "name": "CARTOON NETWORK",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://tv.arectv34.sbs/live/cartoonnetwork.m3u8",
+        "streamUrl": "https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=79efdc5cc2ed751ab1eae13c3e2d0c8a",
         "category": "Çocuk"
     },
     {
@@ -899,7 +899,7 @@
         "id": "132",
         "name": "Teve2",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=7tspfnygyfoq",
+        "streamUrl": "https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd",
         "category": "Sinema"
     },
     {
@@ -1032,7 +1032,14 @@
         "id": "151",
         "name": "Denge Zelal TV",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8",
+        "streamUrl": "https://ip100.radyotelekomtv.com:3582/live/dengelive.m3u8",
         "category": "Kurmancî"
+    },
+    {
+        "id": "152",
+        "name": "Best TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8",
+        "category": "Sinema"
     }
 ]
