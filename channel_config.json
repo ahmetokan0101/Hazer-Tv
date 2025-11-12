@@ -1,25 +1,58 @@
 {
-  "blocked_urls": [
-  ],
-  "stream_overrides": {
-    "https://www.canlitv.top/trt-1": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
-  },
-  "featured_channels": [
-    {
-      "id": "featured_trt1",
-      "name": "TRT 1",
-      "description": "TRT 1 Canlı Yayın",
-      "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-      "thumbnailUrl": "https://i.ibb.co/DHhYJmMV/Trt1.jpg",
-      "categories": ["Genel"]
+    "blocked_urls": [],
+    "stream_overrides": {
+        "https://www.canlitv.top/trt-1": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
     },
-    {
-      "id": "featured_showtv",
-      "name": "Show TV",
-      "description": "Show TV Canlı Yayın",
-      "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-      "thumbnailUrl": "https://i.ibb.co/hJ9zCBFm/showtv.jpg",
-      "categories": ["Genel"]
-    }
-  ]
+    "featured_channels": [
+        {
+            "id": "featured_kanald",
+            "name": "Kanal D",
+            "description": "KANAL D Canlı Yayın",
+            "videoUrl": "http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8",
+            "thumbnailUrl": "https://i.ibb.co/FbhVNq3g/kanald.jpg",
+            "categories": [
+                "Genel"
+            ]
+        },
+        {
+            "id": "featured_showtv",
+            "name": "Show TV",
+            "description": "Show TV Canlı Yayın",
+            "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+            "thumbnailUrl": "https://i.ibb.co/hJ9zCBFm/showtv.jpg",
+            "categories": [
+                "Genel"
+            ]
+        },
+        {
+            "id": "featured_tv8",
+            "name": "TV8",
+            "description": "TV8 Canlı Yayın",
+            "videoUrl": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788",
+            "thumbnailUrl": "https://i.ibb.co/mChFPNxK/Tv8.jpg",
+            "categories": [
+                "Genel"
+            ]
+        },
+        {
+            "id": "featured_startv",
+            "name": "Star TV",
+            "description": "Star TV Canlı Yayın",
+            "videoUrl": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
+            "thumbnailUrl": "https://i.ibb.co/HL1RrwCx/Startv.jpg",
+            "categories": [
+                "Genel"
+            ]
+        },
+        {
+            "id": "featured_nowtv",
+            "name": "Now TV",
+            "description": "Now TV Canlı Yayın",
+            "videoUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+            "thumbnailUrl": "https://i.ibb.co/N26Js1f5/Now.jpg",
+            "categories": [
+                "Genel"
+            ]
+        }
+    ]
 }
