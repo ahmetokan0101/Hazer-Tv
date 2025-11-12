@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",TRT KURssDÎ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",TRT KURDÎ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",KURDISTAN TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
@@ -46,8 +46,6 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 https://c2.radioboss.fm/stream/564
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Denge Zelal TV
 https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Ulusal",TRT EBA İlkokul
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Eğitim",TRT EBA İlkokul
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Eğitim",TRT EBA Lise
