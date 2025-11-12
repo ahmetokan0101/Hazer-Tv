@@ -14,19 +14,11 @@
       "categories": ["Genel"]
     },
     {
-      "id": "featured_atv",
-      "name": "ATV",
-      "description": "ATV Canlı Yayın",
-      "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-      "thumbnailUrl": "https://www.atv.com.tr/assets/img/atv-logo.png",
-      "categories": ["Genel"]
-    },
-    {
       "id": "featured_showtv",
       "name": "Show TV",
       "description": "Show TV Canlı Yayın",
       "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-      "thumbnailUrl": "https://www.showtv.com.tr/assets/img/showtv-logo.png",
+      "thumbnailUrl": "https://i.ibb.co/hJ9zCBFm/showtv.jpg",
       "categories": ["Genel"]
     }
   ]
