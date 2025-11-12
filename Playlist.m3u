@@ -1,3 +1,51 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",TRT KURDÎ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",RÛDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",KURDSAT NEWS
+https://iko-streamline-live1.akamaized.net/KurdsatNews/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",JÎN TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Kurdsat TV
+https://iko-live.akamaized.net/KurdsatTV/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Kurdmax TV
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Kurd Channel
+https://cdn.northtelecom.org/KurdChannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Afarin Kids
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Baxchai Afarin
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Afarin Radio
+https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",NRT TV
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Eurokurd
+https://www.eurokurd.tv/proxy.php?tail=chunklist_w512932760.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Assyrian Global Network
+https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Sada TV
+https://oldkors-6tw.cfpass1.workers.dev/?url=http://sada-hd.ddns.net/live/sadatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Waar TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Waar Radio
+https://c2.radioboss.fm/stream/564
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Kurmancî",Denge Zelal TV
+https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Ulusal",TRT EBA İlkokul
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Eğitim",TRT EBA İlkokul
