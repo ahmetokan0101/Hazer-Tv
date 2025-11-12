@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Ulusal",TRT EBA İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Eğitim",TRT EBA İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxW1n6Y8/HazerTv.png" group-title="Eğitim",TRT EBA Lise
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="MÜZİK",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MÜZİK",KRAL - KRAL POP
