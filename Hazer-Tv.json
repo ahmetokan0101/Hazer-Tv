@@ -10,7 +10,7 @@
         "id": "2",
         "name": "Show TV",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1762894235&st=8hfC5ecw9jQtxpDgjyRjkA&tv=1",
+        "streamUrl": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1",
         "category": "Ulusal"
     },
     {
@@ -31,7 +31,7 @@
         "id": "6",
         "name": "Now TV",
         "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
-        "streamUrl": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=JXoLQMKZPH0pyJXutjwDqw&e=1762902486",
+        "streamUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
         "category": "Ulusal"
     },
     {
