@@ -16,21 +16,21 @@
     {
         "id": "3",
         "name": "Star TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
         "category": "Ulusal"
     },
     {
         "id": "5",
         "name": "Kanal D",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
         "category": "Ulusal"
     },
     {
         "id": "6",
         "name": "Now TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
         "category": "Ulusal"
     },
@@ -65,14 +65,14 @@
     {
         "id": "11",
         "name": "TV8",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
         "category": "Ulusal"
     },
     {
         "id": "12",
         "name": "TV 8.5",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
         "category": "Ulusal"
     },
@@ -1038,7 +1038,7 @@
     {
         "id": "152",
         "name": "Best TV",
-        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8",
         "category": "Sinema"
     }
