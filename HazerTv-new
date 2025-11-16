@@ -9,28 +9,28 @@
     {
         "id": "2",
         "name": "Show TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/hJ9zCBFm/showtv.jpg",
         "streamUrl": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1",
         "category": "Ulusal"
     },
     {
         "id": "3",
         "name": "Star TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/HL1RrwCx/Startv.jpg",
         "streamUrl": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
         "category": "Ulusal"
     },
     {
         "id": "5",
         "name": "Kanal D",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/FbhVNq3g/kanald.jpg",
         "streamUrl": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
         "category": "Ulusal"
     },
     {
         "id": "6",
         "name": "Now TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/N26Js1f5/Now.jpg",
         "streamUrl": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
         "category": "Ulusal"
     },
@@ -65,7 +65,7 @@
     {
         "id": "11",
         "name": "TV8",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/mChFPNxK/Tv8.jpg",
         "streamUrl": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
         "category": "Ulusal"
     },
