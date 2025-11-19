@@ -8398,5 +8398,124 @@
         "logoUrl": "https://i.ibb.co/D7w9h7Q/rt.png",
         "streamUrl": "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8",
         "category": "Almanya"
+    },
+    {
+        "id": "1204",
+        "name": "Az Star TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1205",
+        "name": "Alvin Channel",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w91852283.m3u8",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1206",
+        "name": "Bakü TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1207",
+        "name": "Real Tv",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://www.youtube.com/embed/Dh1Z8mYuNNc",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1208",
+        "name": "Atv Azad TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/atvazad.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1209",
+        "name": "Dünya TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1210",
+        "name": "ARB 24 TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1211",
+        "name": "Space TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1212",
+        "name": "CBC Sport",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/cbcsport.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1213",
+        "name": "İctimai Tv",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/ictimaitv.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1214",
+        "name": "CBC Tv",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1215",
+        "name": "Kanal S Az",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1216",
+        "name": "Medeniyet Tv",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1217",
+        "name": "ARB TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1218",
+        "name": "Az TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1219",
+        "name": "Xezer Tv",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
+    },
+    {
+        "id": "1220",
+        "name": "ARB Güneş TV",
+        "logoUrl": "https://i.ibb.co/G4KyHKgK/Ads-z-tasar-m-9.png",
+        "streamUrl": "https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "category": "Azerbaycan"
     }
 ]
