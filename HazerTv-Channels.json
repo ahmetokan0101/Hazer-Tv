@@ -8354,7 +8354,7 @@
         "id": "1194",
         "name": "Kon TV",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/playlist.m3u8?hash=1aced8bd6a5ddd4117659ad2e406bc85",
+        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/chunklist_w609551221.m3u8?hash=",
         "category": "Ulusal"
     },
     {
@@ -8440,5 +8440,12 @@
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8",
         "category": "Sinema"
+    },
+    {
+        "id": "1207",
+        "name": "İdman Tv",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "streamUrl": "http://str.yodacdn.net/idman/video.m3u8",
+        "category": "Azerbaycan"
     }
 ]
