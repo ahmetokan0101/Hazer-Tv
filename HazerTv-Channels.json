@@ -931,13 +931,6 @@
         "category": "Kurmancî"
     },
     {
-        "id": "137",
-        "name": "4Kurd",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
-        "category": "Kurmancî"
-    },
-    {
         "id": "138",
         "name": "Kurdistan 24",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
@@ -1022,13 +1015,6 @@
         "category": "Kurmancî"
     },
     {
-        "id": "150",
-        "name": "Waar Radio",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://c2.radioboss.fm/stream/564",
-        "category": "Kurmancî"
-    },
-    {
         "id": "151",
         "name": "Denge Zelal TV",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
@@ -1043,157 +1029,10 @@
         "category": "Sinema"
     },
     {
-        "id": "153",
-        "name": "TRT KURDÎ",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "154",
-        "name": "KURDISTAN TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "155",
-        "name": "RÛDAW TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "156",
-        "name": "KURDSAT NEWS",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://iko-streamline-live1.akamaized.net/KurdsatNews/master_3.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "157",
-        "name": "JÎN TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://live.jintv.org/medialive/jintv.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "158",
-        "name": "Kurdsat TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://iko-live.akamaized.net/KurdsatTV/master_3.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "159",
-        "name": "Kurdmax TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "160",
-        "name": "Persiana 4Kurd",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
-        "category": "Kurmancî"
-    },
-    {
         "id": "161",
         "name": "Kurd Channel",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "https://cdn.northtelecom.org/KurdChannel.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "162",
-        "name": "4Kurd",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://4kuhls.persiana.live/hls/stream.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "163",
-        "name": "Kurdistan 24",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "164",
-        "name": "Amozhgary TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://app-live.org/live/3268334b/index.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "165",
-        "name": "Afarin Kids",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "166",
-        "name": "Baxchai Afarin",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "167",
-        "name": "Afarin Radio",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "168",
-        "name": "NRT TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "169",
-        "name": "Eurokurd",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://www.eurokurd.tv/proxy.php?tail=chunklist_w512932760.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "170",
-        "name": "Assyrian Global Network",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "171",
-        "name": "Payam TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "172",
-        "name": "Zarok TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "173",
-        "name": "Sada TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://oldkors-6tw.cfpass1.workers.dev/?url=http://sada-hd.ddns.net/live/sadatv/playlist.m3u8",
-        "category": "Kurmancî"
-    },
-    {
-        "id": "174",
-        "name": "Waar TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
         "category": "Kurmancî"
     },
     {
