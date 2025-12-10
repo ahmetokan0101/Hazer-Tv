@@ -1015,13 +1015,6 @@
         "category": "Kurmancî"
     },
     {
-        "id": "146",
-        "name": "Denge Zelal TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://ip100.radyotelekomtv.com:3582/live/dengelive.m3u8",
-        "category": "Sinema"
-    },
-    {
         "id": "147",
         "name": "Best TV",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
@@ -8354,7 +8347,7 @@
         "id": "1194",
         "name": "Kon TV",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/chunklist_w609551221.m3u8?hash=",
+        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/playlist.m3u8?hash=82f31344d0aeb75c64879c5e1e3a95f0",
         "category": "Ulusal"
     },
     {
@@ -8447,5 +8440,26 @@
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
         "streamUrl": "http://str.yodacdn.net/idman/video.m3u8",
         "category": "Azerbaycan"
+    },
+    {
+        "id": "1208",
+        "name": "Tv42",
+        "logoUrl": "https://www.tv42haber.com/assets/logo.png",
+        "streamUrl": "https://canliyayin.tv42.com.tr/memfs/288fb8d8-21f6-4be6-b48e-a5ed1606430c_output_0.m3u8",
+        "category": "Haber"
+    },
+    {
+        "id": "1209",
+        "name": "Konya Ktv",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "streamUrl": "https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "1210",
+        "name": "Cine1",
+        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8",
+        "category": "Sinema"
     }
 ]
