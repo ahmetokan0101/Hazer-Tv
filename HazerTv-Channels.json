@@ -8347,7 +8347,7 @@
         "id": "1194",
         "name": "Kon TV",
         "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
-        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/playlist.m3u8?hash=82f31344d0aeb75c64879c5e1e3a95f0",
+        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/playlist.m3u8?hash=e258a08b337c5a5cbdbc2ded09fa070e",
         "category": "Ulusal"
     },
     {
@@ -8443,7 +8443,7 @@
     },
     {
         "id": "1208",
-        "name": "Tv42",
+        "name": "Tv 42",
         "logoUrl": "https://www.tv42haber.com/assets/logo.png",
         "streamUrl": "https://canliyayin.tv42.com.tr/memfs/288fb8d8-21f6-4be6-b48e-a5ed1606430c_output_0.m3u8",
         "category": "Haber"
@@ -8467,6 +8467,13 @@
         "name": "A2",
         "logoUrl": "https://assets.uzunmuhalefet.com/logos/c54ad35b-cc2f-4a9b-bfd0-ae1afee9c763.png",
         "streamUrl": "https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8",
+        "category": "Ulusal"
+    },
+    {
+        "id": "1212",
+        "name": "Tv 42",
+        "logoUrl": "https://www.tv42haber.com/assets/logo.png",
+        "streamUrl": "https://canliyayin.tv42.com.tr/memfs/288fb8d8-21f6-4be6-b48e-a5ed1606430c_output_0.m3u8",
         "category": "Ulusal"
     }
 ]
