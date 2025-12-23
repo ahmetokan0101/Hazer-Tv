@@ -8475,5 +8475,12 @@
         "logoUrl": "https://www.tv42haber.com/assets/logo.png",
         "streamUrl": "https://canliyayin.tv42.com.tr/memfs/288fb8d8-21f6-4be6-b48e-a5ed1606430c_output_0.m3u8",
         "category": "Ulusal"
+    },
+    {
+        "id": "1213",
+        "name": "SÖZCÜ TV",
+        "logoUrl": "https://i.ibb.co/B40rjP3/szc1.png",
+        "streamUrl": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8",
+        "category": "Haber"
     }
 ]
