@@ -457,7 +457,7 @@
     {
         "id": "66",
         "name": "Habertürk",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/wdwm0fn/haberturk.png",
         "streamUrl": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
         "category": "Haber"
     },
@@ -471,35 +471,35 @@
     {
         "id": "68",
         "name": "NTV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/9c7MvWX/ntv.png",
         "streamUrl": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3",
         "category": "Haber"
     },
     {
         "id": "69",
         "name": "24 TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/tHQpWvn/24.png",
         "streamUrl": "https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8",
         "category": "Haber"
     },
     {
         "id": "70",
         "name": "BLOOMBERG HT",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/HXKrJRC/blght22.png",
         "streamUrl": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8",
         "category": "Haber"
     },
     {
         "id": "71",
         "name": "HALK TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/BtYMK4q/halk21a.png",
         "streamUrl": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
         "category": "Haber"
     },
     {
         "id": "72",
         "name": "ÜLKE TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/ZXts607/ulketv.png",
         "streamUrl": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
         "category": "Haber"
     },
