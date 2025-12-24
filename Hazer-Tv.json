@@ -450,7 +450,7 @@
     {
         "id": "65",
         "name": "TGRT HABER",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",
         "streamUrl": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8",
         "category": "Haber"
     },
