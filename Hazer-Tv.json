@@ -107,56 +107,56 @@
     {
         "id": "16",
         "name": "TRT Belgesel",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/N1h8m96/trtbelgesel.png",
         "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "17",
         "name": "TRT Belgesel",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/N1h8m96/trtbelgesel.png",
         "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
         "category": "Belgesel"
     },
     {
         "id": "18",
         "name": "KANAL URFA",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://digiturkpaketler.com/kanal/kanal-urfa",
         "streamUrl": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "19",
         "name": "ER TV MALATYA",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "20",
         "name": "SAT 7 TÜRK",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/Cm1kp8f/sat7turk.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "21",
         "name": "ALTAS TV ORDU",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "streamUrl": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "22",
         "name": "BİR TV İZMİR",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "streamUrl": "https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
     {
         "id": "23",
         "name": "BURSA LINE TV",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "streamUrl": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
         "category": "Ulusal"
     },
@@ -8347,7 +8347,7 @@
         "id": "1193",
         "name": "Kon TV",
         "logoUrl": "https://kontv.tr/wp-content/uploads/2025/10/kontv.png",
-        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/chunklist_w1843921911.m3u8?hash=c9f9526dd9f0e108f408884f340feca1",
+        "streamUrl": "https://yayin1.canlitv.fun/canlitv/kontv.stream/chunklist_w2061379159.m3u8?hash=7406ea6820037e6be8503618b904fed7",
         "category": "Ulusal"
     },
     {
@@ -8437,7 +8437,7 @@
     {
         "id": "1206",
         "name": "İdman Tv",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png",
         "streamUrl": "http://str.yodacdn.net/idman/video.m3u8",
         "category": "Azerbaycan"
     },
@@ -8458,7 +8458,7 @@
     {
         "id": "1209",
         "name": "Cine1",
-        "logoUrl": "https://i.ibb.co/vxW1n6Y8/HazerTv.png",
+        "logoUrl": "https://i.ibb.co/SnPFhXS/cnee12.png",
         "streamUrl": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8",
         "category": "Sinema"
     },
