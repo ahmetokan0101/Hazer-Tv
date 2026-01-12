@@ -8608,5 +8608,12 @@
         "logoUrl": "https://assets.uzunmuhalefet.com/logos/0d01aed5-e168-494f-8320-1e49e11b8de1.png",
         "streamUrl": "https://streams.uzunmuhalefet.com/stream/843d8857-d125-4188-84f9-0d261976c51f.m3u8",
         "category": "Haber"
+    },
+    {
+        "id": "1237",
+        "name": "VAN65TV",
+        "logoUrl": "https://www.van65tv.com/assets/images/logo/logo.png",
+        "streamUrl": "https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8",
+        "category": ""
     }
 ]
